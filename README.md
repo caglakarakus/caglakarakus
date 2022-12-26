@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @caglakarakus
-- 👀 I’m interested in game app and web development 
+- 👀 I’m interested in backend(java) and 
+- web development 
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me karakuscaglanur@gmail.com
