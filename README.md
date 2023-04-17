@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @caglakarakus
-- 👀 I’m interested in backend(java) and 
-- web development 
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on
+- 👀 I’m developing ios apps with swiftUI and also learning C.
+-I also have experience in Python(2 year) and Java(1 year).
+- 🌱 I am into gaming and I love playing and exploring new games.
 - 📫 How to reach me karakuscaglanur@gmail.com
 
 <!---
